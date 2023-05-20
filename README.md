@@ -1,4 +1,4 @@
-# Protocol Buffers vs JSON Serialization in Golang
+# Protocol Buffers vs JSON in Golang
 This repository provides an example implementation and benchmarking code to compare the memory efficiency and performance of Protocol Buffers (protobuf) and JSON serialization in Golang.
 
 ## Features
