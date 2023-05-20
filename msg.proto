@@ -1,0 +1,9 @@
+syntax = "proto3";
+package main;
+option go_package = "model/message";
+
+message MyMessage {
+  int32 id = 1;
+  string name = 2;
+  string email = 3;
+}
